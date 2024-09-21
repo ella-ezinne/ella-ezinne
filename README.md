@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python and DevOps tools
+
 - 👯 Open to collaborate with other developers
-- 💬 Ask me about IT, DevOps & Cloud related stuff...
+- 💬 Ask me about IT, Wed Development, DevOps & Cloud related stuff...
 - 📫 How to reach me: @emmazinny3007@gmail.com
